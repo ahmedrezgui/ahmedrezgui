@@ -27,7 +27,9 @@
 - [HR platform](https://github.com/ahmedrezgui/Projet.NetFrontEnd) - Human resources platform for university club 
 - [YMARA](https://github.com/yasmine412/ProjetWeb) - Airbnb clone 
 
-## 📈 GitHub Stats
-[//]: # (![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrezgui&show_icons=true&theme=radical)
-<!-- This is a comment -->
+
+
+<!--## 📈 GitHub Stats  -->
+<!-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrezgui&show_icons=true&theme=radical -->
+
 
