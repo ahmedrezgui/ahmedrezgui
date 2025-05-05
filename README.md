@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student @INSAT  
 🤖 Passionate about **Artificial Intelligence**, **Data Engineering**, and **Big Data Technologies**  
-📬 Reach me at [rezgui.ahmed.141@gmail.com](mailto:rezgui.ahmed.141@gmail.com)  
+📬 Reach me at [ahmed.rezgui@insat.ucar.tn](mailto:ahmed.rezgui@insat.ucar.tn)  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/ahmed-rezgui-a4983a276/)
 
 ---
