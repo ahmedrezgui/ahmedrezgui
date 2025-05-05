@@ -14,10 +14,10 @@ I'm focused on building intelligent systems that process and learn from large-sc
 **Core Areas:**
 - Machine Learning & Model Deployment
 - Deep Learning (CNNs, RNNs, Transformers)
-- Data Engineering with ETL Pipelines
+- Data Engineering
 - Big Data Processing (Spark, Kafka, Hadoop)
 - Streaming Data & Real-time Ingestion
-- MLOps with DVC, Docker, Git
+- MLOps with AzuerML, DVC, Docker, Git
 
 ---
 
