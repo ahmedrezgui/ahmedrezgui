@@ -3,7 +3,7 @@
 
 <!-- Typing animation under the name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Working+Student;AI+Engineer;Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Working+Student+-+AI+Engineer;Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 <!-- Contact (Shields badges, spaced) -->
