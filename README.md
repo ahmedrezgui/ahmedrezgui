@@ -8,13 +8,17 @@
 
 <!-- Contact (Shields badges, spaced) -->
 <p align="center">
-  <a href="mailto:ahmed.rezgui@insat.ucar.tn" title="Email">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+<a href="mailto:ahmed.rezgui@insat.ucar.tn" title="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-rezgui-a4983a276/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  &nbsp;&nbsp;
+<a href="https://ahmedrezgui.github.io" target="_blank" title="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio" />
+</a>
 </p>
 
 ---
