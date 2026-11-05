@@ -5,7 +5,7 @@
 
   <h1>Hi there, I'm Ahmed Rezgui! 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate;Artificial+Intelligence+%26+Data Specialist;Building+Intelligent+Systems" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate;Artificial+Intelligence+%26+Data+Specialist;Building+Intelligent+Systems" alt="Animated introduction" />
 
   <p>
     <a href="mailto:ahmed.rezgui@insat.ucar.tn">
