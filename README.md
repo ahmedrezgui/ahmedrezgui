@@ -27,7 +27,9 @@
 
 I'm Ahmed Rezgui, also known as _Axmer_. I'm a Software Engineering graduate.
 My main areas of focus are Artificial Intelligence, Data Science, and Cloud Technologies.
+
 I'm passionate about designing and building intelligent applications, from machine learning models and data-driven systems to scalable, cloud-based solutions. I enjoy tackling challenging technical problems and transforming ideas into practical, real-world applications.
+
 I'm always interested in learning new technologies, exploring innovative ideas, and collaborating on meaningful projects.
 
 ---
