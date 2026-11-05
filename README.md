@@ -39,37 +39,9 @@ I'm always interested in learning new technologies, exploring innovative ideas, 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrezgui&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub stats" width="49%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrezgui&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="38%" />
-
-  <br/><br/>
-
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ahmed's full-year GitHub contributions" width="85%" />
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-**📈 [Adaptive RAG for Stock Market](https://github.com/ahmedrezgui/Adaptive_Rag_TN_Stock_Market)**
-
-An intelligent financial analysis assistant leveraging Retrieval-Augmented Generation, self-reflection, and web search to provide context-aware stock market insights.
-
-`Python` `LangChain` `LangGraph` `ChromaDB` `RAG`
-
-**🎬 [Content-Based Movie Recommender](https://github.com/ahmedrezgui/Movies_recommender_system)**
-
-A machine learning recommendation system that suggests movies based on content similarity using TF-IDF and cosine similarity, with a Streamlit interface and DVC-managed datasets.
-
-`Python` `Scikit-learn` `Pandas` `Streamlit` `DVC`
-
-**🏠 [Housing Price Prediction](https://github.com/anasneji2002/Housing_pricing)**
-
-An end-to-end machine learning pipeline for predicting residential property prices in Grand Tunis, following the CRISP-DM methodology with modular development, automated testing, and containerization.
-
-`Python` `Machine Learning` `Docker` `CRISP-DM`
 
 ---
 
