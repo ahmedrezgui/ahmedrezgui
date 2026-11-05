@@ -39,19 +39,13 @@ I'm always interested in learning new technologies, exploring innovative ideas, 
 
 <div align="center">
 
-  <img src="metrics.base.svg"
-       alt="Ahmed's GitHub statistics"
-       width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrezgui&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub stats" width="49%" />
 
-  <img src="metrics.languages.svg"
-       alt="Ahmed's most used languages"
-       width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrezgui&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="38%" />
 
   <br/><br/>
 
-  <img src="metrics.plugin.isocalendar.fullyear.svg"
-       alt="Ahmed's GitHub contributions"
-       width="85%" />
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ahmed's full-year GitHub contributions" width="85%" />
 
 </div>
 
