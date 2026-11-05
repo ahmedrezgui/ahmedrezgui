@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Ahmed Rezgui, also known as _Axmer_. I'm a Software Engineering graduate from the National Institute of Applied Science and Technology (INSAT).
+I'm Ahmed Rezgui, also known as _Axmer_. I'm a Software Engineering graduate.
 
 My main areas of focus are Artificial Intelligence, Data Science, and Cloud Technologies.
 
