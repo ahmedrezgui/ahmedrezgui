@@ -5,7 +5,7 @@
 
   <h1>Hi there, I'm Ahmed Rezgui! 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate+%40+INSAT;Artificial+Intelligence+%26+Data+Science;Cloud+Technologies+%26+Software+Engineering;Building+Intelligent+Systems" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Graduate;Artificial+Intelligence+%26+Data Specialist;Building+Intelligent+Systems" alt="Animated introduction" />
 
   <p>
     <a href="mailto:ahmed.rezgui@insat.ucar.tn">
@@ -25,9 +25,9 @@
 
 ### 👨‍💻 About Me
 
-I'm **Ahmed Rezgui**, a **Software Engineering graduate from the National Institute of Applied Science and Technology (INSAT)**.
+I'm Ahmed Rezgui, also known as _Axmer_. I'm a Software Engineering graduate from the National Institute of Applied Science and Technology (INSAT).
 
-My main areas of focus are **Artificial Intelligence, Data Science, and Cloud Technologies**.
+My main areas of focus are Artificial Intelligence, Data Science, and Cloud Technologies.
 
 I'm passionate about designing and building intelligent applications, from machine learning models and data-driven systems to scalable, cloud-based solutions. I enjoy tackling challenging technical problems and transforming ideas into practical, real-world applications.
 
@@ -39,13 +39,19 @@ I'm always interested in learning new technologies, exploring innovative ideas, 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrezgui&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub stats" width="49%" />
+  <img src="metrics.base.svg"
+       alt="Ahmed's GitHub statistics"
+       width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrezgui&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="38%" />
+  <img src="metrics.languages.svg"
+       alt="Ahmed's most used languages"
+       width="48%" />
 
   <br/><br/>
 
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ahmed's full-year GitHub contributions" width="85%" />
+  <img src="metrics.plugin.isocalendar.fullyear.svg"
+       alt="Ahmed's GitHub contributions"
+       width="85%" />
 
 </div>
 
